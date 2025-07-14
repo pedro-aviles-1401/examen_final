@@ -22,10 +22,6 @@ def elimnar_producto(modelo):
         return    
     else:
         print('no existe dicha marca')
-def busqueda_RAM_precio(ram_min,ram_max,): 
-    print("profe la verdad no supe como hacer esto bien, lo unico que creo que se  cae ademas, mejor intnto el repechaje")
-
-       
 def stock_marca(marca):    
         while True:
             marca=input("ingrese marca a consultar: ").capitalize()
